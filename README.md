@@ -1,1 +1,1 @@
-# Flask page + redis cache, count the views page on browser
+# Some builds with docker compose
