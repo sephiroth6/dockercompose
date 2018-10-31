@@ -1,1 +1,1 @@
-# Some builds with docker compose
+# Django + postgres
